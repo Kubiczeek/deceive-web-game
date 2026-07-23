@@ -1,0 +1,13 @@
+{
+  "name": "Deceive",
+  "short_name": "Deceive",
+  "description": "Party game of deception",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a1a",
+  "theme_color": "#00d4ff",
+  "icons": [
+    { "src": "/icons/icon-192.svg", "sizes": "192x192", "type": "image/svg+xml" },
+    { "src": "/icons/icon-192.svg", "sizes": "512x512", "type": "image/svg+xml" }
+  ]
+}
